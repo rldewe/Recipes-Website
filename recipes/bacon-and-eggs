@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Bacon And Eggs</title>
+  </head>
+  <body>
+    <header>
+      <center>
+        <h1>Bacon And Eggs : Howl's Moving Castle</h1>
+        <img
+          src="https://images.squarespace-cdn.com/content/v1/51b3dc8ee4b051b96ceb10de/1588717138155-BK6MW45FNMRL63CBGO5M/image-asset.jpeg"
+          alt="Eating breakfast"
+          height="300"
+        />
+      </center>
+    </header>
+    <main>
+      <p>
+        Howl's Moving Castle is one of the many exquisitely animated (and
+        profoundly confusing) expressions of destiny, growth, and love brought
+        to us by Hayao Miyazaki
+        <br /><br />
+        Few can so magically inspire hunger as the sizzling breakfast served up
+        courtesy of Calcifer's demonic flames - can some at-home know-how help
+        us bring the magic into our own kitchens?
+      </p>
+      <div>
+        <h3>Ingredients</h3>
+        <ul>
+          <li>1 large piece of pork belly (about 3 lbs), skin removed</li>
+          <li>4 ½ tsp kosher salt</li>
+          <li>4 ½ tsp coarsely ground black pepper</li>
+          <li>6 packed Tbsp brown sugar</li>
+          <li>¾ cup distilled water</li>
+          <li>1 tsp pink curing salt</li>
+          <li>2 Tbsp applewood</li>
+          <li>4 eggs</li>
+          <li>Sliced bread</li>
+          <li>Salt and pepper</li>
+        </ul>
+      </div>
+      <div>
+        <h3>Method</h3>
+        <ul>
+          <li>
+            <p>
+              Make sure your pork belly is cut to size so that it will fit in
+              the Ziploc bag you are marinating it in. Also make sure that the
+              skin has been removed from the pork belly.
+            </p>
+          </li>
+          <li>
+            <p>
+              Combine kosher salt, coarsely ground black pepper, brown sugar,
+              distilled water, and curing salt in a bowl. Mix until everything
+              is combined.
+            </p>
+          </li>
+          <li>
+            <p>
+              Put pork belly into the Ziploc bag and add the curing solution.
+              Squeeze as much air out of the bag as possible before sealing.
+              Place the bag in a high walled container (like a casserole dish)
+              to prevent cross contamination. Put the dish in the fridge for 3-5
+              days, flipping once per day.
+            </p>
+          </li>
+          <li>
+            <p>
+              To use a stovetop smoker, start by adding 2 Tbsp applewood and 2
+              Tbsp cherrywood to the bottom of the smoker. Top that with the
+              drip plate, followed by the roasting rack. Lastly place the pork
+              belly on top of the roasting rack. Cover the entire stovetop
+              smoker with aluminum foil.
+            </p>
+          </li>
+          <li>
+            <p>
+              Add the stovetop smoker to a burner over medium heat. Insert a
+              temperature probe into the pork belly so that you can monitor the
+              internal temperature. Once it has been smoking for 30-45 minutes,
+              move the entire pan to the oven.
+            </p>
+          </li>
+          <li>
+            <p>
+              Finish the pork belly in a 225°F oven for another hour, or until
+              it reaches 150°F internally. Place the meat in a Ziploc bag and
+              chill for about 4 hours.
+            </p>
+          </li>
+          <li>
+            <p>
+              When completely chilled, remove the bacon from the bag and slice
+              strips to your desired thickness.
+            </p>
+          </li>
+          <li>
+            <p>
+              Fry strips of bacon in a cast iron skillet over medium low heat.
+              This keeps the bacon from burning while the fat renders out.
+            </p>
+          </li>
+          <li>
+            <p>
+              Once the fat has rendered out, add 4 cracked eggs to the pan. Cook
+              until the eggs have a good crust on them. If the whites need to
+              cook more, kill the heat to the pan and cover with a lid to steam
+              the tops of the egg whites.
+            </p>
+          </li>
+          <li>
+            <p>
+              Serve the eggs and bacon with some sliced bread and cheese and a
+              good sprinkle of salt and pepper. Enjoy!
+            </p>
+          </li>
+        </ul>
+      </div>
+      <a href="index.html"
+        ><h4 style="text-align: center">RETURN TO MAIN PAGE</h4></a
+      >
+    </main>
+  </body>
+</html>
