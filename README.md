@@ -1,2 +1,2 @@
 # Recipes-Website
-An HTML website showcasing recipes from Ghibli Movies
+A HTML website showcasing recipes from Ghibli Movies
