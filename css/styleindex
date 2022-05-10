@@ -1,0 +1,18 @@
+h1{
+    font-weight: 600;
+    font-size: 50px;
+    background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+h3{
+    color:black;
+}
+body{
+    border-style:double;
+    background-color: rgba(101,34,147,0.8);
+    margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+}
